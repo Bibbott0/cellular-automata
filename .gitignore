@@ -1,0 +1,5 @@
+.venv
+output_frames
+
+# Ignore all files in output_frames
+output_frames/* 
